@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey, I'm Abith 👋
 
-<!--
-**abithkb02/abithkb02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps & Cloud Engineer based in Bangalore, India.  
+I build and maintain cloud infrastructure, CI/CD pipelines, and container-based deployments — with a focus on keeping systems reliable, observable, and cost-efficient.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Cloud & Infra**  
+AWS (EC2, S3, RDS, ECS, IAM, CloudWatch) · Terraform · Docker · Kubernetes
+
+**CI/CD & Automation**  
+GitHub Actions · Jenkins · Bash scripting · Python
+
+**Monitoring & Observability**  
+Grafana · Prometheus · CloudWatch
+
+**Currently pursuing:** AWS Solutions Architect Associate (SAA-C03)
+
+## 📂 What I'm working on
+
+- Building out DevOps portfolio projects (Terraform modules, K8s deployments, MLOps pipeline)
+- AWS certification prep
+
+## 📫 Let's connect
+
+[LinkedIn](https://linkedin.com/in/abithkb) · abithkb1@gmail.com
